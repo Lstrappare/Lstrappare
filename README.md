@@ -1,18 +1,18 @@
-<h1 align="center">Hola! 👋, Soy Lstrappare</h1>
-<h3 align="center">Me gusta mucho la programación Back-end y Front-end en el desarrollo web 🌐. 
+<h1 align="center">Hola! 👋, Soy Jose Manuel</h1>
+<h3 align="center">Me gusta mucho la programación web tanto Back-end como Front-end 🌐. 
   Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lstrappare&label=Profile%20views&color=0e75b6&style=flat" alt="lstrappare" /> </p>
 
-- 🔭 Estoy trabajando normalmente en [CDNUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
+- 🔭 Estoy trabajando normalmente en este proyecto [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
 
 - 🌱 Me estoy enfocando en aprender **Desarrollo web y de aplicaciones.**
 
-- 🤝 Estoy en busqueda de ayuda en [CDNUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
+- 🤝 Estoy en busqueda de ayuda en [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
 
 - 👨‍💻 Puedes ver todos mis proyectos aquí [Proximamente....](Proximamente....)
 
-- 💬 Preguntame acerca de: **javascript, java, astro y c++.**
+- 💬 Preguntame acerca de: **HTML, CSS, Javascript, Java y C++.**
 
 - 📫 Como contactarme: **j.m.cisval1@gmail.com**
 
