@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, Soy Jose Manuel</h1>
+<h1 align="center">Hola! 👋, Soy Lstrappare</h1>
 <h3 align="center">Me gusta mucho la programación web tanto Back-end como Front-end 🌐. 
   Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓</h3>
 
