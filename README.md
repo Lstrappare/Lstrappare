@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Lstrappare</h1>
-<h3 align="center">Me gusta mucho la programación web tanto Back-end como Front-end 🌐. 
+<h3 align="center">Me gusta mucho la programación web tanto el Front-end como el Back-end 🌐. 
   Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lstrappare&label=Profile%20views&color=0e75b6&style=flat" alt="lstrappare" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 Me estoy enfocando en aprender **Desarrollo web y de aplicaciones.**
 
-- 🤝 Estoy en busqueda de ayuda en [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
+- 🤝 No dudes en contactarte con migo si quieres colaborar en [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git) 
 
 - 👨‍💻 Puedes ver todos mis proyectos aquí [Proximamente....](Proximamente....)
 
@@ -16,7 +16,7 @@
 
 - 📫 Como contactarme: **j.m.cisval1@gmail.com**
 
-- ⚡ Fun fact **Me gusta mucho tocar la guitarra, y jugar videojuegos en mi tiempo libre 😆**
+- ⚡ Fun fact **Me gusta mucho tocar la guitarra, y escuchar música 😆**
 
 <h3 align="left">Conecta con migo en:</h3>
 <p align="left">
