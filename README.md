@@ -18,11 +18,6 @@
 
 - ⚡ Fun fact **Me gusta mucho tocar la guitarra, y escuchar música 😆**
 
-<h3 align="left">Conecta con migo en:</h3>
-<p align="left">
-<a href="https://twitter.com/lstrappare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lstrappare" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Skills:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
