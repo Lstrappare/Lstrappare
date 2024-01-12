@@ -1,8 +1,5 @@
-<h1 align="center">Hola! 👋, Soy Lstrappare</h1>
-<h3 align="center">Me gusta mucho la programación web tanto el Front-end como el Back-end 🌐. 
-  Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lstrappare&label=Profile%20views&color=0e75b6&style=flat" alt="lstrappare" /> </p>
+<h1 align="center"> Hola! 👋, Soy Lstrappare </h1>
+<h3 align="center"> Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓 </h3>
 
 - 🔭 Estoy trabajando normalmente en este proyecto [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
 
@@ -12,9 +9,9 @@
 
 - 👨‍💻 Puedes ver todos mis proyectos aquí [Proximamente....](Proximamente....)
 
-- 💬 Preguntame acerca de: **HTML, CSS, Javascript, Java y C++.**
+- 💬 Preguntame acerca de: **HTML, CSS, Javascript, Java, C++ o C.**
 
-- 📫 Como contactarme: **j.m.cisval1@gmail.com**
+- 📫 Como contactarme: **j.m.cisval@gmail.com**
 
 - ⚡ Fun fact **Me gusta mucho tocar la guitarra, y escuchar música 😆**
 
@@ -25,7 +22,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
