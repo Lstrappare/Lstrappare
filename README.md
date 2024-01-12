@@ -1,5 +1,9 @@
 <h1 align="center"> Hola! 👋, Soy Lstrappare </h1>
-<h3 align="center"> Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓 </h3>
+<h3 align="center"> 
+ Me gusta mucho la programación web y de aplicaciones 🌐 
+ <br>
+ Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓 
+</h3>
 
 - 🔭 Estoy trabajando normalmente en este proyecto [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
 
@@ -32,4 +36,4 @@
  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lstrappare&show_icons=true&locale=en&layout=compact" alt="lstrappare" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lstrappare&show_icons=true&locale=en&layout=compact" alt="lstrappare" />
