@@ -2,7 +2,7 @@
 <h3 align="center"> 
  Me gusta mucho la programación web y de aplicaciones 🌐 
  <br>
- Por ahora soy estudiande en la universidad UPIICSA del IPN, en México 🧑‍🎓 
+ Por ahora me encuentro estudiando programación 🧑‍🎓 
 </h3>
 
 - 🔭 Estoy trabajando normalmente en este proyecto [CNDUPIICSA.](https://github.com/Lstrappare/CNDUPIICSA.git)
