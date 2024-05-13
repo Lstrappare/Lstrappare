@@ -1,4 +1,4 @@
-<h1 align="center"> Hola! 👋, Soy Lstrappare </h1>
+<h1 align="center"> Hola! 👋, Soy Jose Manuel </h1>
 <h3 align="center"> 
  Me gusta mucho la programación web y de aplicaciones 🌐 
  <br>
