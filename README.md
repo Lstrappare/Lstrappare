@@ -7,9 +7,9 @@
 
 - 🌱 Me estoy enfocando en aprender: **Desarrollo web.**
 
-- 👨‍💻 Puedes ver todos mi portafolio aquí: [Proximamente....](Proximamente....)
+- 👨‍💻 Puedes ver mi portafolio aquí: [Proximamente....](Proximamente....)
 
-- 📫 Como contactarme: **j.m.cisval@gmail.com**
+- 📫 Como contactarme: **j.m.cisval1@gmail.com**
 
 - ⚡ Fun fact: **Me gusta mucho tocar música en cualquier instrumento (guitarra, piano, violín, etc.)**
 
