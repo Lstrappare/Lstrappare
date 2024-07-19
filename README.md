@@ -1,9 +1,10 @@
-<h1 align="center"> Hola! 👋, Soy José Manuel </h1>
-<h3 align="center"> 
+
+<img src="name.svg" alt="Jose Manuel">
+<h2 align="center"> 
  Soy desarrollador web jr. 🌐 
  <br>
  Manejo Front-end y Back-end, anque mi fuerte es el Front-end.
-</h3>
+</h2>
 
 - 🌱 Me estoy enfocando en aprender: **Desarrollo web.**
 
