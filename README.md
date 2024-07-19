@@ -1,4 +1,4 @@
-<h1 align="center"> Hola! 👋, Soy Jose Manuel </h1>
+<h1 align="center"> Hola! 👋, Soy José Manuel </h1>
 <h3 align="center"> 
  Soy desarrollador web jr. 🌐 
  <br>
@@ -11,7 +11,7 @@
 
 - 📫 Como contactarme: **j.m.cisval@gmail.com**
 
-- ⚡ Fun fact: **Me gusta hacer musica**
+- ⚡ Fun fact: **Me gusta mucho tocar música en cualquier instrumento (guitarra, piano, violín, etc.)**
 
 <h3 align="center">Skills:</h3>
 <p align="center"> 
@@ -30,7 +30,5 @@
  
 </p>
 <p align = "center">
-<img src="https://github.com/Lstrappare/Lstrappare/assets/119477560/ab90ccb4-4c59-46ad-9938-a82e48379b77" alt= "gato cool">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lstrappare&show_icons=true&locale=en&layout=compact" alt="lstrappare" />
 </p>
