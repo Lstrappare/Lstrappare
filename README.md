@@ -8,7 +8,7 @@
 
 - 🌱 Me estoy enfocando en aprender: **Desarrollo web.**
 
-- 👨‍💻 Puedes ver mi portafolio aquí: [Proximamente....](Proximamente....)
+- 👨‍💻 Puedes ver mi portafolio aquí: [José Cisneros]( https://lstrappare.github.io/Portafolio/)
 
 - 📫 Como contactarme: **j.m.cisval1@gmail.com**
 
