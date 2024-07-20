@@ -1,6 +1,7 @@
 
-<img src="name.svg" alt="Jose Manuel">
 <h2 align="center"> 
+<img src="name.svg" alt="Jose Manuel">
+ <br>
  Soy desarrollador web jr. 🌐 
  <br>
  Manejo Front-end y Back-end, anque mi fuerte es el Front-end.
