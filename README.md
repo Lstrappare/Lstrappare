@@ -7,13 +7,13 @@
  Manejo Front-end y Back-end, anque mi fuerte es el Front-end.
 </h2>
 
-- 🌱 Me estoy enfocando en aprender: **Desarrollo web.**
+- 🌱 Me estoy enfocando en aprender: **Administración de Bases de datos.**
 
-- 👨‍💻 Puedes ver mi portafolio aquí: [José Cisneros]( https://lstrappare.github.io/Portafolio/)
+- 👨‍💻 Puedes ver mi portafolio aquí: [**José Cisneros**]( https://lstrappare.github.io/Portafolio/)
 
 - 📫 Como contactarme: **j.m.cisval1@gmail.com**
 
-- ⚡ Fun fact: **Me gusta mucho tocar música en cualquier instrumento (guitarra, piano, violín, etc.)**
+- ⚡ Fun fact: **Me gusta mucho hacer deportes como el fútbol, basquetbol, remo. Y tocar música con la guitarra, el piano o en violín.**
 
 <h3 align="center">Skills:</h3>
 <p align="center"> 
