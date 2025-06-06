@@ -1,52 +1,78 @@
 <h2 align="center">
-  <img src="name.svg" alt="Jose Manuel">
-  <br>
-  🎓 Licenciado en Ciencias de la Informática
-  <br>
-  📊 Enfocado en Ciencia de Datos y Análisis de Datos
+  <img src="name.svg" alt="José Manuel" width="640"/>
+  <br><br>
+  🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA)  
+  📊 Especialización en Manejo y Explotación de Datos  
+  💻 Desarrollador Web <b>Full-stack Jr.</b> — apasionado por el <b>Front-end</b>  
+  🇲🇽 Desde CDMX, México
 </h2>
 
 ---
 
-### 🌱 **Actualmente aprendiendo:**
-- **Manejo y explotación de datos**: Trabajando con herramientas como Python, Pandas, NumPy, y visualización de datos con Matplotlib/Seaborn.
-- **Machine Learning**: Explorando algoritmos de aprendizaje supervisado y no supervisado.
-- **Big Data**: Introduciéndome en el manejo de grandes volúmenes de datos con herramientas como SQL y Spark.
+## 👋 Sobre mí
+
+Hola, soy **José Manuel**.  
+Licenciado en Ciencias de la Informática por el **IPN (UPIICSA)**, especializado en **Manejo y Explotación de Datos**.  
+Desarrollador web **Full-stack Jr.**, aunque disfruto mucho más crear experiencias atractivas y funcionales en el **frontend**.
+
+Tengo 2 años de experiencia en programación, con foco en:
+- Desarrollo Web con tecnologías modernas
+- Ciencia de Datos y análisis predictivo
+- Optimización con modelos determinísticos
+
+En mi tiempo libre practico **básquetbol**, toco música y creo contenido multimedia como videos y podcasts 🎧🎬
 
 ---
 
-### 👨‍💻 **Portafolio:**
-Puedes ver algunos de mis proyectos aquí: [**José Cisneros - Portafolio**](https://lstrappare.github.io/Portafolio/)
+## 🛠 Tecnologías y herramientas que uso
+
+- **Lenguajes**: TypeScript, JavaScript, Python, SQL  
+- **Frameworks**: Next.js, Astro, Tailwind CSS, React  
+- **Bases de datos**: PostgreSQL, DynamoDB, MongoDB  
+- **Cloud / DevOps**: AWS, Vercel, Clerk, GitHub  
+- **Herramientas**: Jupyter, Git, Anaconda, Figma  
 
 ---
 
-### 🎯 **Intereses:**
-- **Ciencia de Datos**
-- **Análisis de Datos**
-- **Desarrollo Web** (Front-end y Back-end)
+## 🚀 Proyecto Destacado: Rhythm 🎵
+
+> Aplicación web para escuchar música, dar like y crear playlists personalizadas.
+
+**Tech Stack**: Next.js · TypeScript · Tailwind CSS · AWS · Clerk · DynamoDB  
+
+🔗 [Ver Proyecto](https://github.com/Lstrappare/rhythm)  
+📦 [Repositorio](https://github.com/Lstrappare/rhythm)
 
 ---
 
-### 🛠 **Herramientas que utilizo:**
-- **Lenguajes:** Python, JavaScript, CSS
-- **Frameworks/Librerías:** Pandas, NumPy, React.js y Astro
-- **Bases de Datos:** MySQL, MongoDB
-- **Otras herramientas:** Git, GitHub, Jupyter Notebooks, Anaconda Navigator
+## 📄 CV y enlaces
+
+- 📄 [Currículum](https://example.com/cv.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 🧑‍💻 [Portafolio Web](https://lstrappare.github.io/Portafolio/)
+- 📨 Email: [j.m.cisval1@gmail.com](mailto:j.m.cisval1@gmail.com)
 
 ---
 
-### ⚡ **Datos curiosos sobre mí:**
-- 🏀 Me encanta jugar **básquetbol** y **fútbol soccer** con mis amigos.
-- 🎹 Toco varios instrumentos musicales, como el **piano**, la **guitarra** y el **violín**.
+## 🤝 Disponible para trabajar
+
+Estoy abierto a colaborar en proyectos interesantes relacionados con:
+- Ciencia de Datos
+- Análisis de Datos
+- Desarrollo Front-end o Full-stack
 
 ---
 
-### 🌟 **Colaboraciones:**
-Si tienes algún proyecto interesante o quieres colaborar en algo relacionado con **ciencia de datos**, **análisis de datos** o incluso **desarrollo web**, ¡no dudes en contactarme!
+## ⚡ Curiosidades sobre mí
+
+- 🏀 Juego básquetbol en mi tiempo libre  
+- 🎸 Me apasiona la música: toco guitarra, piano y violín  
+- 🧠 Me interesa aplicar IA y análisis de datos en la toma de decisiones
 
 ---
 
-### 📫 **Contacto:**
-- Email: **j.m.cisval1@gmail.com**
-  
+## 🧾 Licencia
+
+© 2025 José Manuel Cisneros. Casi todos los derechos reservados.
+
 ---
