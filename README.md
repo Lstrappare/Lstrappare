@@ -38,7 +38,7 @@ En mi tiempo libre practico **básquetbol**, toco música y creo contenido multi
 
 > Aplicación web para escuchar música, dar like y crear playlists personalizadas.
 
-**Tech Stack**: Next.js · TypeScript · Tailwind CSS · AWS · Clerk · DynamoDB  
+**Tech Stack**: Next.js · TypeScript · Tailwind CSS · AWS · Clerk · DynamoDB
 
 🔗 [Ver Proyecto](https://rhythm-rho.vercel.app)  
 📦 [Repositorio](https://github.com/Lstrappare/rhythm)
@@ -57,9 +57,9 @@ En mi tiempo libre practico **básquetbol**, toco música y creo contenido multi
 ## 🤝 Disponible para trabajar
 
 Estoy abierto a colaborar en proyectos interesantes relacionados con:
+- Desarrollo Front-end o Full-stack
 - Ciencia de Datos
 - Análisis de Datos
-- Desarrollo Front-end o Full-stack
 
 ---
 
