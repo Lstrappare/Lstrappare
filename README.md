@@ -40,7 +40,7 @@ En mi tiempo libre practico **básquetbol**, toco música y creo contenido multi
 
 **Tech Stack**: Next.js · TypeScript · Tailwind CSS · AWS · Clerk · DynamoDB  
 
-🔗 [Ver Proyecto](https://github.com/Lstrappare/rhythm)  
+🔗 [Ver Proyecto](https://rhythm-rho.vercel.app)  
 📦 [Repositorio](https://github.com/Lstrappare/rhythm)
 
 ---
