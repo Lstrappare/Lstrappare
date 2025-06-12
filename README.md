@@ -1,10 +1,11 @@
 <h2 align="center">
   <img src="name.svg" alt="José Manuel" width="640"/>
-  <br><br>
-  🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA)  
-  📊 Especialización en Manejo y Explotación de Datos  
-  💻 Desarrollador Web <b>Full-stack Jr.</b> — apasionado por el <b>Front-end</b>  
-  🇲🇽 Desde CDMX, México
+  <br>
+  🇲🇽 De CDMX, México
+  <br>
+  🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA) 
+  📊 Especializado en Manejo y Explotación de Datos  
+  💻 Desarrollador Web <b>Full-stack Jr.</b> aunque me gusta más desarrollar experiencias <b>Front-end</b>  
 </h2>
 
 ---
@@ -26,9 +27,9 @@ En mi tiempo libre practico **básquetbol**, toco música y creo contenido multi
 
 ## 🛠 Tecnologías y herramientas que uso
 
-- **Lenguajes**: TypeScript, JavaScript, Python, SQL  
+- **Lenguajes**: TypeScript, JavaScript, Python, SQL, NoSQL  
 - **Frameworks**: Next.js, Astro, Tailwind CSS, React  
-- **Bases de datos**: PostgreSQL, DynamoDB, MongoDB  
+- **Bases de datos**: MySQL, PostgreSQL, DynamoDB, MongoDB  
 - **Cloud / DevOps**: AWS, Vercel, Clerk, GitHub  
 - **Herramientas**: Jupyter, Git, Anaconda, Figma  
 
