@@ -71,9 +71,3 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con:
 - 🧠 Me interesa aplicar IA y análisis de datos en la toma de decisiones
 
 ---
-
-## 🧾 Licencia
-
-© 2025 José Manuel Cisneros. Casi todos los derechos reservados.
-
----
