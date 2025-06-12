@@ -66,8 +66,7 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con:
 
 ## ⚡ Curiosidades sobre mí
 
-- 🏀 Juego básquetbol en mi tiempo libre  
+- 🏀 Juego básquetbol y fútbol en mi tiempo libre  
 - 🎸 Me apasiona la música: toco guitarra, piano y violín  
-- 🧠 Me interesa aplicar IA y análisis de datos en la toma de decisiones
 
 ---
