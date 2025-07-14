@@ -3,25 +3,20 @@
   <br>
   🇲🇽 De CDMX, México
   <br>
-  🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA) 
-  📊 Especializado en Manejo y Explotación de Datos  
-  💻 Desarrollador Web <b>Full-stack Jr.</b> aunque me gusta más desarrollar experiencias <b>Front-end</b>  
+🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA)
 </h2>
 
----
 
 ## 👋 Sobre mí
 
-Hola, soy **José Manuel**.  
+Hola, soy **José Manuel Cisneros**.  
 Licenciado en Ciencias de la Informática por el **IPN (UPIICSA)**, especializado en **Manejo y Explotación de Datos**.  
-Desarrollador web **Full-stack Jr.**, aunque disfruto mucho más crear experiencias atractivas y funcionales en el **frontend**.
+Y también desarrollador de software Full-stack, aunque disfruto mucho más crear experiencias atractivas y funcionales en el **Front-End**.
 
-Tengo 2 años de experiencia en programación, con foco en:
+Tengo 3 años de experiencia en programación, con foco en:
 - Desarrollo Web con tecnologías modernas
 - Ciencia de Datos y análisis predictivo
 - Optimización con modelos determinísticos
-
-En mi tiempo libre practico **básquetbol**, toco música y creo contenido multimedia como videos y podcasts 🎧🎬
 
 ---
 
