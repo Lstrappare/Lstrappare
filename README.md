@@ -43,7 +43,7 @@ Tengo 3 años de experiencia en programación, con foco en:
 
 ## 📄 CV y enlaces
 
-<!-- - 📄 [Currículum](https://example.com/cv.pdf) -->
+- 📄 [Currículum](https://portafoliojocis.netlify.app/CVJoseCisneros.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/josé-manuel-cisneros-valero-1b7a3b258/)
 - 🧑‍💻 [Portafolio Web](https://portafoliojocis.netlify.app)
 - 📨 Email: [j.m.cisval1@gmail.com](mailto:j.m.cisval1@gmail.com)
