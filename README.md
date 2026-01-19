@@ -1,67 +1,64 @@
 <h2 align="center">
   <img src="name.svg" alt="José Manuel" width="640"/>
   <br>
-  🇲🇽 De CDMX, México
+  🇲🇽 CDMX, México
   <br>
-🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA)
+  🎓 Licenciado en Ciencias de la Informática (IPN - UPIICSA)
 </h2>
 
+---
 
 ## 👋 Sobre mí
 
-Hola, soy **José Manuel Cisneros**.  
-Licenciado en Ciencias de la Informática por el **IPN (UPIICSA)**, especializado en **Manejo y Explotación de Datos**.  
-Y también desarrollador de software Full-stack, aunque disfruto mucho más crear experiencias atractivas y funcionales en el **Front-End**.
+¡Hola! Soy **José Manuel Cisneros**.  
+Un apasionado **Desarrollador de Software** transitando del mundo Web al desarrollo nativo en el ecosistema Apple.
 
-Tengo 3 años de experiencia en programación, con foco en:
-- Desarrollo Web con tecnologías modernas
-- Ciencia de Datos y análisis predictivo
-- Optimización con modelos determinísticos
+Aunque mi base es fuerte en **Full-stack Web** y **Ciencia de Datos**, mi enfoque actual está en la ingeniería de software de bajo nivel y la creación de experiencias nativas fluidas para **iOS y macOS**.
 
----
-
-## 🛠 Tecnologías y herramientas que uso
-
-- **Lenguajes**: TypeScript, JavaScript, Python, SQL, NoSQL  
-- **Frameworks**: Next.js, Astro, Tailwind CSS, React  
-- **Bases de datos**: MySQL, PostgreSQL, DynamoDB, MongoDB  
-- **Cloud / DevOps**: AWS, Vercel, Clerk, GitHub  
-- **Herramientas**: Jupyter, Git, Anaconda, Figma  
+🔭 **Actualmente estoy trabajando en:**
+- Profundizar en **Swift** y **SwiftUI**.
+- Desarrollo de herramientas de sistema en **C**.
+- Integración de **IA Local (Llama)** en aplicaciones de escritorio.
 
 ---
 
-## 🚀 Proyecto Destacado: Rhythm 🎵
+## 🛠 Tecnologías y Herramientas
 
-> Aplicación web para escuchar música, dar like y crear playlists personalizadas.
+### 🍎 Mobile & System
+`Swift` `SwiftUI` `C` `Xcode` `UIKit`
 
-**Tech Stack**: Next.js · TypeScript · Tailwind CSS · AWS · Clerk · DynamoDB
+### 💻 Web & Fullstack
+`TypeScript` `Next.js` `React` `Tailwind CSS` `Astro`
 
-🔗 [Ver Proyecto](https://rhythm-rho.vercel.app)  
-📦 [Repositorio](https://github.com/Lstrappare/rhythm)
-
----
-
-## 📄 CV y enlaces
-
-- 📄 [Currículum](https://portafoliojocis.netlify.app/CVJoseCisneros.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/josé-manuel-cisneros-valero-1b7a3b258/)
-- 🧑‍💻 [Portafolio Web](https://portafoliojocis.netlify.app)
-- 📨 Email: [j.m.cisval1@gmail.com](mailto:j.m.cisval1@gmail.com)
+### ☁️ Backend & Data
+`AWS` `SQL` `NoSQL` `Python` `Llama (AI)` `Git`
 
 ---
 
-## 🤝 Disponible para trabajar
+## 🚀 Proyectos Destacados
 
-Estoy abierto a colaborar en proyectos interesantes relacionados con:
-- Desarrollo Front-end o Full-stack
-- Ciencia de Datos
-- Análisis de Datos
+### 🛠️ [DSS para Taller Mecánico (macOS + IA)](https://github.com/Lstrappare/dss-taller-mecanico)
+> *Aplicación nativa de escritorio para gestión operativa y toma de decisiones.*
+- **Tech**: Swift, SwiftUI, Llama 3.2 (IA Local), macOS.
+- **Highlights**: Integración de Inteligencia Artificial local para análisis de métricas sin internet y arquitectura escalable.
+
+### 🎵 [Rhythm - Streaming Platform](https://rhythm-rho.vercel.app)
+> *Clon funcional de plataforma de música con arquitectura moderna.*
+- **Tech**: Next.js, TypeScript, AWS S3, Clerk Auth, Tailwind.
+- **Highlights**: Aplicación Fullstack con gestión de medios en la nube y autenticación robusta.
+
+---
+
+## 📄 Contacto y Enlaces
+
+- 🧑‍💻 **Portafolio Web:** [josecisneros.me](https://josecisneros.me)
+- 💼 **LinkedIn:** [José Manuel Cisneros](https://www.linkedin.com/in/josecisnerosme/)
+- 📄 **CV Actualizado:** [Descargar PDF](https://josecisneros.me/CVJoseCisneros.pdf)
+- 📨 **Email:** [j.m.cisvall@gmail.com](mailto:j.m.cisvall@gmail.com)
 
 ---
 
-## ⚡ Curiosidades sobre mí
+## ⚡ Fuera del código...
 
-- 🏀 Juego básquetbol y fútbol en mi tiempo libre  
-- 🎸 Me apasiona la música: toco guitarra, piano y violín  
-
----
+- 🏀 **Deporte:** Juego básquetbol y fútbol para despejar la mente.
+- 🎻 **Música:** Me gusta mucho tocar guitarra, piano y violín.
